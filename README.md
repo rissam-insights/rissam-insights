@@ -82,23 +82,7 @@ Analyzed e-commerce sales data to identify top-performing products, peak sales w
 
 ---
 
-## 📈 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rissamsk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rissamsk&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=rissamsk&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-
-</div>
-
----
 
 ## 🌐 Connect with Me
 
