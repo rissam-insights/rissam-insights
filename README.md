@@ -35,8 +35,6 @@ I'm a **B.Com BPS student at VIT Vellore** with a passion for transforming raw d
 ### Programming & Querying
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Core Competencies
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-6C63FF?style=for-the-badge&logo=databricks&logoColor=white)
@@ -84,13 +82,31 @@ Analyzed e-commerce sales data to identify top-performing products, peak sales w
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rissamsk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rissamsk&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rissamsk&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+
+</div>
+
+---
+
 ## 🌐 Connect with Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rissam%20S%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rissam-s-k-513971322)
-[![GitHub](https://img.shields.io/badge/GitHub-@rissamsk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rissam-insights)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rissamsk@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@rissamsk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rissamsk)
+[![Email](https://img.shields.io/badge/Email-rissamsk@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rissamsk@gmail.com)
 
 </div>
 
