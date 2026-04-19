@@ -89,8 +89,8 @@ Analyzed e-commerce sales data to identify top-performing products, peak sales w
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rissam%20S%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rissam-s-k-513971322)
-[![GitHub](https://img.shields.io/badge/GitHub-@rissamsk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rissamsk)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@rissamsk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rissam-insights)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rissamsk@gmail.com)
 
 </div>
 
